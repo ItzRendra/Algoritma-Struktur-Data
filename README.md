@@ -6,3 +6,6 @@
 - NIM : L200224246
 
 ### Repository for Algorithm Data Structure Practice and documentation
+
+
+# *[Source Code Excercise Pekan 2](https://github.com/ItzRendra/Algoritma-Struktur-Data/blob/main/Kelas/Exercise_P2.py)*
