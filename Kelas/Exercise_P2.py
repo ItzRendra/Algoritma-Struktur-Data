@@ -1,4 +1,4 @@
-@author Raka Rendra Fayanto | L200224246 
+#@author Raka Rendra Fayanto | L200224246 
 def primeOrNot(n): #Fungsi untuk mengecek apakah angka yang di masukan adalah bilangan prima atau tidak
     if n > 1: #bilangan prima adalah bilangan bilangan yang lebih dari satu dan tidak memiliki faktor selain 1 dan bilangan terserbut
         for i in range(2, (n//2)+1): #membuat range untuk mengecek apakah bilangan adalah bilangan prima atau tidak
