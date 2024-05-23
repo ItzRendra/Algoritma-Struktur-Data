@@ -51,13 +51,13 @@ def printInfo(self):
     print("Kapasitas Kendaraan : ", self.capacity) # Output: capacity dari class
 
 
-# my_vehicle = Vehicle("Toyota Supra", "Black", 2020, 25000) #membuat objek dari vehicle
-# my_vehicle.set_capacity(5)
-# printInfo(my_vehicle)
+my_vehicle = Vehicle("Toyota Supra", "Black", 2020, 25000) #membuat objek dari vehicle
+my_vehicle.set_capacity(5)
+printInfo(my_vehicle)
 
-# my_truck = Truck("Ford", "Red", 2017, 10000) #membuat objek dari class Truck
-# my_truck.set_capacity(3)
-# printInfo(my_truck)
+my_truck = Truck("Ford", "Red", 2017, 10000) #membuat objek dari class Truck
+my_truck.set_capacity(3)
+printInfo(my_truck)
 
 
 
